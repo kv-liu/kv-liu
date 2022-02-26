@@ -6,7 +6,7 @@
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/kv-liu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kevinliu8260@hotmail.com?subject=Hello%20Kevin,%20From%20Github"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kevinliu8260@hotmail.com?subject=Hello%20Kevin,%20From%20Github"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
