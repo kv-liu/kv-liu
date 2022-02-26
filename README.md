@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://media4.giphy.com/media/XDXqX6n1VrzXuVGiId/giphy.gif?cid=790b7611fab755c9cdaf352b5cb4e21d44f57cdb40ffe98a&rid=giphy.gif&ct=s" width="50"> Hi, welcome! <img src="https://media0.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=790b76112f07e7eabb7bc60b896d8ab9043f64c6ddd7e01c&rid=giphy.gif&ct=s" width="50"></h1>
 
-<img src="https://giphy.com/stickers/pokemon-dragonite-dracolosse-XDXqX6n1VrzXuVGiId" width="50">
-
 <h2>I'm Kevin! <img src="https://media2.giphy.com/media/IQebREsGFRXmo/giphy.gif?cid=790b761103b220be924e7c21588fad73fe19376127eee8d0&rid=giphy.gif&ct=s" width="50"></h2>
 <ul>
   <li>I'm currently a BUS & CS student @  <a href=https://www.sfu.ca target="blank">Simon Fraser University </a></li>
