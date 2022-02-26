@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kevin! <img src="https://media0.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=790b76112f07e7eabb7bc60b896d8ab9043f64c6ddd7e01c&rid=giphy.gif&ct=s" width="50"></h1>
 
-<h3 align="center">Currently a BUS & CS student @  <a href=https://www.sfu.ca target="blank">Simon Fraser University </a></h3>
+<h3 align="center">I'm currently a BUS & CS student @  <a href=https://www.sfu.ca target="blank">Simon Fraser University </a></h3>
 
 <h2> My Links <img src="https://media3.giphy.com/media/Xdv29zqFlaSlO/giphy.gif?cid=790b76119db010299c04604964b29d63f53e31fe985a7228&rid=giphy.gif&ct=s" width="50"></h2>
 
