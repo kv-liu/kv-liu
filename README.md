@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm currently a BUS & CS student @  <a href=https://www.sfu.ca target="blank">Simon Fraser University </a></h3>
 
-<h2> My Links <img src="https://media3.giphy.com/media/Xdv29zqFlaSlO/giphy.gif?cid=790b76119db010299c04604964b29d63f53e31fe985a7228&rid=giphy.gif&ct=s" width="50"></h2>
+<h2>Connect with me! <img src="https://media3.giphy.com/media/Xdv29zqFlaSlO/giphy.gif?cid=790b76119db010299c04604964b29d63f53e31fe985a7228&rid=giphy.gif&ct=s" width="50"></h2>
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/kv-liu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
