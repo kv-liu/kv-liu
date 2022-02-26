@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">👋 Hi, I'm Kevin Liu! <img src="https://media0.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif?cid=790b76112f07e7eabb7bc60b896d8ab9043f64c6ddd7e01c&rid=giphy.gif&ct=s" width="50"></h2>
+
 
 <!--
 **kv-liu/kv-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
