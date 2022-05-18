@@ -3,7 +3,7 @@
 
 <h2>About me <img src="https://media2.giphy.com/media/IQebREsGFRXmo/giphy.gif?cid=790b761103b220be924e7c21588fad73fe19376127eee8d0&rid=giphy.gif&ct=s" width="50"></h2>
 <ul>
-  <li>I'm currently a BUS & CS student @  <a href=https://www.sfu.ca target="blank">Simon Fraser University </a></li>
+  <li>I'm currently a BUS & CS student @  <a href=https://www.sfu.ca target="blank">Simon Fraser University & SDE Intern @ Amazon</a></li>
 </ul>
 
 
